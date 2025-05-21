@@ -5,18 +5,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rafia-10/Leetcode_daily/tree/master/0112-path-sum) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rafia-10/Leetcode_daily/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rafia-10/Leetcode_daily/tree/master/0112-path-sum) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rafia-10/Leetcode_daily/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rafia-10/Leetcode_daily/tree/master/0112-path-sum) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rafia-10/Leetcode_daily/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rafia-10/Leetcode_daily/tree/master/0112-path-sum) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rafia-10/Leetcode_daily/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Linked List
 |  |
 | ------- |
