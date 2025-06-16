@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rafia-10/Leetcode_daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/rafia-10/Leetcode_daily/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/rafia-10/Leetcode_daily/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/rafia-10/Leetcode_daily/tree/master/0091-decode-ways) |
+| [0394-decode-string](https://github.com/rafia-10/Leetcode_daily/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/rafia-10/Leetcode_daily/tree/master/0838-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/rafia-10/Leetcode_daily/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
