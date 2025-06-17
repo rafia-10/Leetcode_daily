@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rafia-10/Leetcode_daily/tree/master/0112-path-sum) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rafia-10/Leetcode_daily/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rafia-10/Leetcode_daily/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rafia-10/Leetcode_daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/rafia-10/Leetcode_daily/tree/master/0206-reverse-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rafia-10/Leetcode_daily/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/rafia-10/Leetcode_daily/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/rafia-10/Leetcode_daily/tree/master/0394-decode-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rafia-10/Leetcode_daily/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
